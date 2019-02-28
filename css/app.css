@@ -367,7 +367,8 @@ table.button.warning:hover table a {
 
 h1 {
   color: #c2151c;
-  line-height: 34px;
+  font-size: 32px;
+  line-height: 36px;
   text-align: center; }
 
 .orange-body {
