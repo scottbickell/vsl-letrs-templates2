@@ -367,16 +367,10 @@ table.button.warning:hover table a {
 
 h1 {
   color: #c2151c;
-  font-size: 32px;
-  line-height: 36px;
-  text-align: center; }
+  line-height: 36px; }
 
 .orange-body {
   background: #ff6d10; }
-
-.orange-body a {
-  color: #ffffff;
-  font-weight: bold; }
 
 .orange-body p {
   color: #ffffff; }
@@ -385,6 +379,16 @@ h2 {
   margin: 0;
   line-height: 30px;
   color: #c2151c; }
+
+.red-body {
+  background: #c2151c; }
+
+.red-body h3 {
+  text-align: center;
+  margin: 0 1em;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 24px; }
 
 .footer {
   background: #4a4f55; }
@@ -477,7 +481,7 @@ sup {
   background: #005587; }
 
 p.intro-cta {
-  font-size: 14px;
+  font-size: 13px;
   text-align: right;
   margin-bottom: 0; }
 
